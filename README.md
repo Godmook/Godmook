@@ -22,6 +22,7 @@
 | Period | Role | Highlights |
 | --- | --- | --- |
 | 2023 → 2024 | **Freelance DevOps Engineer** | • Implemented enterprise SSO (SAML & OIDC) <br>• Managed AWS CodePipeline / Terraform <br>• Shipped Flask‑based backend APIs |
+  | 2024 → 2025 | **HIGH PERFORMANCE COMPUTING RESEARCHER** | • Doing Research at HPC Lab  |
 
 ---
 
@@ -51,10 +52,10 @@
 
 ## 🧩 Projects Worth a Peek
 
-| Repo | Brief |
+| Project | Brief |
 | :-- | :-- |
-| **Dynamic‑GPU‑Fraction** | Runtime for fractionalizing GPU slots across pods; admission controller + custom scheduler. |
-| **mlops‑template** | Cookiecutter for reproducible Kubeflow pipelines & MLflow tracking. |
+| **Dynamic‑GPU‑Fraction** | Runtime for fractionalizing GPU slots across pods; admission controller(HAMi + Kueue) + custom scheduler. |
+| **Hunger Detection** |  Experimenting with *quantization/distillation* to shrink the model for wearable devices.. |
 | **sso‑gateway** | Plug‑and‑play SSO proxy supporting SAML / OAuth2 for legacy apps. |
 
 ---
