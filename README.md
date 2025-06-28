@@ -1,56 +1,60 @@
-## Hello!! I'm OhChangmook(@godmook), a Developer 🚀 from South Korea.
+# Hey, I’m **Changmook Oh** (@godmook) 👋
 
-</h3>
-<br>
-
-<h3 align="left">
-              🛠 Tech Stack 🛠
-</h3>
-<br>
-<p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Godmook's github stats" src="https://github-readme-stats.vercel.app/api?username=godmook&show_icons=true&hide_border=true" />
-  </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wireshark/wireshark-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <a href="https://github-readme-stats.vercel.ap">
-    <img width="60%" align="right" alt="Godmook's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godmook&hide=jupyter%20notebook&layout=compact&theme=default&langs_count=6" />
-  </a>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=godmook" alt="visitor badge"/>
+  <img src="https://img.shields.io/badge/DevOps-%23181717.svg?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-%23007396.svg?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-%231572B6.svg?style=flat&logo=azurepipelines&logoColor=white" />
 </p>
 
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgodmook%2Fhit-counter&count_bg=%236667AB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  <br>
-  <a href="https://solved.ac/profile/cmoh4135"><img align="center" width="35%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cmoh4135" alt="Solved.ac godmook"/>
-      </a><br>
-</div>
+---
+
+## 🚀 What I’m Doing Now
+
+- **MLOps Engineer** — building cloud‑native ML infrastructure, GPU allocators & GitOps workflows for AI services.
+- Designing **distributed training & inference** stack on Kubernetes/Kubeflow.
+- Advocating **IaC + observability** across 50+ micro‑services.
+
+---
+
+## 💼 Previous Work
+
+| Period | Role | Highlights |
+| --- | --- | --- |
+| 2023 → 2024 | **Freelance DevOps Engineer** | • Implemented enterprise SSO (SAML & OIDC) <br>• Managed AWS CodePipeline / Terraform <br>• Shipped Flask‑based backend APIs |
+
+---
+
+## 🎓 Education
+
+| Period | Institution | Program |
+| ------ | ----------- | ------- |
+| 2020‑03 → 2023‑02 | **Sejong University** | B.S. Software Engineering |
+| 2024‑08 → 2026‑05 *(exp.)* | **USC** | M.S. Computer Science |
+
+---
+
+## 🧰 Tech Toolbox
+
+| Domain | Stack |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-007396?&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&logo=typescript&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?&logo=springboot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?&logo=fastapi&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?&logo=vite&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?&logo=next.js&logoColor=white) |
+| **DevOps / Infra** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) |
+| **MLOps** | ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?logo=kubeflow&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194f3?logo=mlflow&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&logo=mongodb&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?&logo=grafana&logoColor=white) |
+| **Misc.** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?&logo=gnubash&logoColor=white) |
+
+---
+
+## 🧩 Projects Worth a Peek
+
+| Repo | Brief |
+| :-- | :-- |
+| **Dynamic‑GPU‑Fraction** | Runtime for fractionalizing GPU slots across pods; admission controller + custom scheduler. |
+| **mlops‑template** | Cookiecutter for reproducible Kubeflow pipelines & MLflow tracking. |
+| **sso‑gateway** | Plug‑and‑play SSO proxy supporting SAML / OAuth2 for legacy apps. |
+
+---
