@@ -1,4 +1,4 @@
-# Hey, I’m **Changmook Oh** (@godmook) 👋
+# Hey, I’m **Mook** (@godmook) 👋
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=godmook" alt="visitor badge"/>
